@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tobiascosta04
+- 👀 I’m interested in programs and work
+- 🌱 I’m currently learning computer engineering
+- 💞️ I’m looking to collaborate on programs 
+- 📫 How to reach me. You can reach me on linkedin(https://www.linkedin.com/in/tobias-assun%C3%A7%C3%A3o-costa-lima-a3a0562a8/) our on this profile
