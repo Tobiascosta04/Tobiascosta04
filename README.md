@@ -4,7 +4,6 @@ Olá, meu nome é Tobias Assunção Costa Lima. Sou estudante do curso de Engenh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-assunção-costa-lima-a3a0562a8/)
 [![E-mail](https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tobiaslima04@gmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-8B008B?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/tobiaslima04)
 
 ## GitHub Stats
 
